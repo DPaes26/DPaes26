@@ -45,14 +45,11 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 ---
 
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DPaes26&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" />
-</div>
-
-
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-paes-0203a1156/)
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DPaes26&color=F7DF1E&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+</div>
