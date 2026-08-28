@@ -1,4 +1,7 @@
 # Olá, sou Danielly Paes 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+Formação+%7C+ADS;Foco+em+Java+%26+Python;Entusiasta+de+Cibersegurança;Construindo+aplicaçōes+inteligentes" alt="Typing SVG" />
+</div>
 
 Desenvolvedora de Software em formação por Análise e Desenvolvimento de Sistemas, com base sólida em lógica de programação, arquitetura de sistemas e foco no ecossistema **Java** e **Python**. 
 
@@ -27,14 +30,6 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 ### 🚀 Projetos em Destaque
 
 * 🛡️ **[SOC AI - Incident Triager & Copilot](https://github.com/DPaes26/soc-ai-incident-triager):** Ferramenta de automação e triagem de logs de incidentes de segurança desenvolvida com Python, Streamlit e Google Gemini API.
-
----
-
-### 🏆 Conquistas do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DPaes26&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
