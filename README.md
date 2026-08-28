@@ -29,7 +29,8 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 ### 🚀 Projetos em Destaque
 
-* 🛡️ **[SOC AI - Incident Triager & Copilot](https://github.com/DPaes26/soc-ai-incident-triager):** Ferramenta de automação e triagem de logs de incidentes de segurança desenvolvida com Python, Streamlit e Google Gemini API.
+* 🛡️ **[SOC AI - Incident Triager & Copilot](https://github.com/DPaes26/soc-ai-incident-triager)**: Ferramenta de automação e triagem de logs com interface gráfica, IA generativa e regras de severidade em tempo real (Streamlit, Gemini API).
+* 🔍 **[SOC Log Anomaly Detector & Alert Pipeline](https://github.com/DPaes26/soc-log-anomaly-detector)**: Pipeline em Python para ingestão de logs, detecção heurística de ataques de força bruta e exportação automatizada de relatórios analíticos para SOC.
 
 ---
 
