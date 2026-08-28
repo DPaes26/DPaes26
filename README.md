@@ -45,8 +45,11 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 ---
 
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPaes26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DPaes26&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" />
 </div>
 
 
