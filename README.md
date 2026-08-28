@@ -33,8 +33,6 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 ---
 
----
-
 ### 🐍 Minhas Contribuições
 
 <div align="center">
