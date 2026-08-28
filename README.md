@@ -1,6 +1,6 @@
 # Olá, sou Danielly Paes 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=550&lines=Desenvolvedora+em+Formacao+%7C+ADS;Foco+em+Java+%26+Python;Entusiasta+de+Ciberseguranca;Construindo+solucoes+inteligentes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=550&lines=Desenvolvedora+em+Formacao+%7C+ADS;Foco+em+Java+%26+Python;Entusiasta+de+Ciberseguran%C3%A7a;Construindo+solucoes+inteligentes" alt="Typing SVG" />
 </p>
 
 Desenvolvedora de Software em formação por Análise e Desenvolvimento de Sistemas, com base sólida em lógica de programação, arquitetura de sistemas e foco no ecossistema **Java** e **Python**. 
