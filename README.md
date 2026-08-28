@@ -31,12 +31,6 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 * 🛡️ **[SOC AI - Incident Triager & Copilot](https://github.com/DPaes26/soc-ai-incident-triager):** Ferramenta de automação e triagem de logs de incidentes de segurança desenvolvida com Python, Streamlit e Google Gemini API.
 
-<div align="center">
-  <a href="https://github.com/DPaes26/soc-ai-incident-triager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DPaes26&repo=soc-ai-incident-triager&theme=tokyonight&hide_border=true" alt="SOC AI Incident Triager" />
-  </a>
-</div>
-
 ---
 
 ### 🐍 Minhas Contribuições
