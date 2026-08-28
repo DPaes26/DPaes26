@@ -30,11 +30,10 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🏆 Conquistas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=DPaes26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=DPaes26&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DPaes26&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
 </div>
 
 ---
