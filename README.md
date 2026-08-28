@@ -32,9 +32,11 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 ### 📊 Estatísticas do GitHub
 
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPaes26&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPaes26&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DPaes26&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DPaes26&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
