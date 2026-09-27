@@ -53,6 +53,6 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 <div align="center">
 
-![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=DPaes26.DPaes26&left_color=181717&right_color=F7DF1E)
+![Contador de Visitas](https://hits.dwyl.com/DPaes26/DPaes26.svg)
 
 </div>
