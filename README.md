@@ -53,6 +53,6 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 <div align="center">
 
-![Contador de Visitas](https://hits.dwyl.com/DPaes26/DPaes26.svg)
+[![Visitas](https://komarev.com/ghpvc/?username=DPaes26&color=f7df1e&style=flat-square&label=VISITAS)](https://github.com/DPaes26)
 
 </div>
