@@ -53,6 +53,6 @@ Minha trajetória une raciocínio analítico, capacidade de resolução de probl
 
 <div align="center">
 
-[![Contador de Visitas](https://komarev.com/ghpvc/?username=DPaes26&color=f7df1e&style=flat-square&label=VISITAS)](https://github.com/DPaes26)
+![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=DPaes26.DPaes26&left_color=181717&right_color=F7DF1E)
 
 </div>
