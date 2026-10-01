@@ -3,9 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=550&lines=Desenvolvedora+em+Forma%C3%A7%C3%A3o+%7C+ADS;Foco+em+Java+%26+Python;Entusiasta+de+Ciberseguran%C3%A7a;Construindo+solu%C3%A7%C3%B5es+inteligentes" alt="Typing SVG" />
 </p>
 
-Desenvolvedora de Software em formação por Análise e Desenvolvimento de Sistemas, com base sólida em lógica de programação, arquitetura de sistemas e foco no ecossistema **Java**. 
+Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend e soluções orientadas a dados e processos:
 
-Minha trajetória une raciocínio analítico, capacidade de resolução de problemas complexos e comunicação clara — com experiência prévia na facilitação do ensino de lógica e pensamento computacional. Atualmente, foco na construção de aplicações escaláveis, automação inteligente e integração de modelos de Inteligência Artificial aplicados à segurança da informação.
+- ☕ **Backend (Foco):** Desenvolvimento de APIs RESTful com **Java**, **Spring Boot** e modelagem relacional com **PostgreSQL**.
+- 🤖 **Automação & IA:** Integração de modelos generativos (Gemini API) e scripts de automação com **Python**.
+- 🛠️ **Boas Práticas:** Versionamento estruturado com Git/GitHub, testes e mentalidade ágil (Scrum/Kanban).
 
 ---
 
