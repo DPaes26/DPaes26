@@ -1,6 +1,6 @@
 # Olá, sou Danielly Paes 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=550&lines=Desenvolvedora+em+Forma%C3%A7%C3%A3o+%7C+ADS;Foco+em+Java+%26+Python;Entusiasta+de+Ciberseguran%C3%A7a;Construindo+solu%C3%A7%C3%B5es+inteligentes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=06B6D4&center=true&vCenter=true&width=550&lines=Desenvolvedora+de+Software+%7C+ADS;Foco+em+Java+%26+Spring+Boot;APIs+RESTful+%26+PostgreSQL;Automa%C3%A7%C3%A3o+com+Python+%26+IA;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing SVG" />
 </p>
 
 Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend e soluções orientadas a dados e processos:
