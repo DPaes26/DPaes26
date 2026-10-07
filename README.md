@@ -56,7 +56,5 @@ Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend
 
 
 <p align="center">
-  <a href="https://github.com/DPaes26">
-    <img src="https://komarev.com/ghpvc/?username=DPaes26&color=007EC6&style=flat-square&label=VISITAS&base=75" alt="Visitas" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DPaes26&color=007EC7&style=flat-square&label=VISITAS&base=75" alt="Visitas" />
 </p>
