@@ -56,5 +56,5 @@ Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend
 
 
 <p align="center">
-  <img src="https://visitor-badge.pvtw.net/badge?page_id=DPaes26.DPaes26&left_color=gray&right_color=007EC6&left_text=VISITAS" alt="Visitas" />
+  <img src="https://img.shields.io/badge/VISITAS-160-007EC6?style=flat-square" alt="Visitas" />
 </p>
