@@ -55,4 +55,4 @@ Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-paes-0203a1156/)
 
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=DPaes26.DPaes26)
+![Visitas](https://komarev.com/ghpvc/?username=DPaes26&color=007EC6&style=flat-square&label=VISITAS&base=75)
