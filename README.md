@@ -56,5 +56,5 @@ Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DPaes26&label=VISITAS&color=007EC6&style=flat-square&abbreviated=false&initial_value=160" alt="Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DPaes26.Profile&start_count=160&left_color=gray&right_color=007EC6" alt="Visitas" />
 </p>
