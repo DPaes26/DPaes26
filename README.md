@@ -56,5 +56,5 @@ Foco o meu desenvolvimento na construção de APIs robustas, arquitetura backend
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VISITAS-160-007EC6?style=flat-square" alt="Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DPaes26.DPaes26&start_count=160&left_color=gray&right_color=007EC6" alt="Visitas" />
 </p>
